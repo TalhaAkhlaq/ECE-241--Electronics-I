@@ -36,11 +36,11 @@ The final project involved the design, biasing, simulation, and analysis of a **
 
 #### Images, schematics, simulation outputs, and layout screenshots can be found [here](https://github.com/TalhaAkhlaq/ECE-241-Electronics-I/tree/main/Final%20Project).
 ---
-## Copyright & Licensing  
-Copyright (C) 2024  
-**Taha Akhlaq**  
-talhaakhlaq1@gmail.com
+## Copyright & Licensing
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright (C) 2024 Talha Akhlaq <talhaakhlaq1@gmail.com>
 
-For more academic work and project repositories, visit my [GitHub profile](https://github.com/talhaakhlaq1).
+Distributed under the MIT License. See LICENSE for details.
+##
+
+For more information on my projects and other academic work, please visit my [GitHub profile](https://github.com/TalhaAkhlaq).
