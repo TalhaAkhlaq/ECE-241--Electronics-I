@@ -35,9 +35,8 @@ The final project involved the design, biasing, simulation, and analysis of a **
   5. Save waveforms and extract gain, frequency response, and output swing metrics.
 
 #### Project Artifacts:
-Images, schematics, simulation outputs, and layout screenshots can be found here.
+##### Images, schematics, simulation outputs, and layout screenshots can be found here.
 ---
-
 ## Copyright & Licensing  
 Copyright (C) 2024  
 **Taha Akhlaq**  
