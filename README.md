@@ -34,7 +34,7 @@ The final project involved the design, biasing, simulation, and analysis of a **
   4. Run DC and AC simulations using Spectre from ADE (Analog Design Environment).
   5. Save waveforms and extract gain, frequency response, and output swing metrics.
 
-#### Images, schematics, simulation outputs, and layout screenshots can be found here.
+#### Images, schematics, simulation outputs, and layout screenshots can be found [here](https://github.com/TalhaAkhlaq/ECE-241-Electronics-I/tree/main/Final%20Project).
 ---
 ## Copyright & Licensing  
 Copyright (C) 2024  
