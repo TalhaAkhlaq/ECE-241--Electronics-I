@@ -28,12 +28,11 @@ The final project involved the design, biasing, simulation, and analysis of a **
 - **Software**: Cadence Virtuoso & Spectre (Academic Edition)
 - **Access**: Installed on a remote-access **Linux virtual machine** provided by the university IT services.
 - **Process**:
-  1. Apply for remote lab access through the Cooper Union ECE department.
-  2. Connect via **SSH** or **VNC** to the pre-configured virtual machine.
-  3. Launch Cadence environment using initialization scripts (`source ~/.bashrc_cadence`).
-  4. Use Virtuoso's Schematic Editor to build circuit.
-  5. Run DC and AC simulations using Spectre from ADE (Analog Design Environment).
-  6. Save waveforms and extract gain, frequency response, and output swing metrics.
+  1. Connect via **SSH** to the virtual machine
+  2. Launch Cadence environment
+  3. Use Virtuoso's Schematic Editor to build circuit
+  4. Run DC and AC simulations using Spectre from ADE (Analog Design Environment).
+  5. Save waveforms and extract gain, frequency response, and output swing metrics.
 
 #### Project Artifacts:
 Images, schematics, simulation outputs, and layout screenshots can be found here.
